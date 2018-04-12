@@ -1,1 +1,2 @@
 # javaTest
+Hi Git test
